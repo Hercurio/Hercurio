@@ -2,7 +2,7 @@
 
 <p>Meu nome e Octávio Pedro Quem sou eu ,? Vamos lá nascido em Belmonte - BA,<br> 
 tenho no momento 27 anos de idade, Publicitária, Designer e desenvolvedor <br>
-Front-End, seja bem vindo ao meu perfil.</p>
+Front-End em formação, seja bem vindo ao meu perfil.</p>
 
 
 - Estou estudando: CSS3, HTML5, JavaScript.
