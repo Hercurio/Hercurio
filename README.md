@@ -10,7 +10,7 @@ Esse ano comecei algo novo, Desenvolvimento Front-end onde posso usar um pouco d
 - 📍 Sou de Belmonte - BA no momento resido em Rio Verde - Go
 - 💻 Designer e Desenvolvedor Front-End 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?Octavio-Pedro=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 
 Siga-me: 👇🏼
