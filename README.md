@@ -1,6 +1,3 @@
-
-🇧🇷
-
 Trabalho na área de publicidade e design a 9 anos, sempre gostei de criar algo com as próprias mãos, além disso gosto muito de conhecer e aprender sobre pessoas. Publicidade e Design se encaixaram melhor comigo, entender as pessoas (no caso o consumidor) para poder criar algo que chame atenção e muito empolgante(pelo menos para mim). 
 
 Esse ano comecei algo novo, Desenvolvimento Front-end onde posso usar um pouco de conhecimento de design e de publicidade para desenvolver um pagina na Web (e futuramente mobile) . Aproveita passa lá no meu site na github: https://octavio-pedro.github.io/💻
@@ -10,8 +7,11 @@ Esse ano comecei algo novo, Desenvolvimento Front-end onde posso usar um pouco d
 - 📍 Sou de Belmonte - BA no momento resido em Rio Verde - Go
 - 💻 Designer e Desenvolvedor Front-End 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?OctavioPedro=anuraghazra&show_icons=true&theme=dracula) 
+](https://github.com/Octavio-Pedro)
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Octavio-Pedro=anuraghazra&layout=compact)](https://github.com/Octavio-Pedro)
 
 Siga-me: 👇🏼
 
