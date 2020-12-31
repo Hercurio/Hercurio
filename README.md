@@ -5,7 +5,7 @@ Esse ano comecei algo novo, Desenvolvimento Front-end onde posso usar um pouco d
 - 📍 Sou de Belmonte - BA no momento resido em Rio Verde - Go
 - 💻 Designer e Desenvolvedor Front-End 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Octavio-Pedro&show_icons=true&theme=dracula) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Octavio-Pedro&show_icons=true&theme=dracula) <br>
 ](https://github.com/Octavio-Pedro)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Octavio-Pedro&layout=compact)](https://github.com/Octavio-Pedro)
 
 Siga-me: 👇🏼
